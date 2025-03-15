@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zonbei
 - 👀 I’m interested in network security and implementing security measures and finding vulnerabilities.
-- 🌱 I’m currently learning the fundamentals of cyber security and advancing my knowledge with LINUX commands and ethical hacking.
+- 🌱 I’m currently learning the fundamentals of cyber security and advancing my knowledge with Linux commands and ethical hacking.
 - 💞️ I’m looking to collaborate on ethical hacking techniques and a mentor to put me in the right path.
 - 📫 How to reach me savagezombie@gmail.com
 - 😄 Pronouns: He/Him/They
